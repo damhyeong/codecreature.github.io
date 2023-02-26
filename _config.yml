@@ -151,6 +151,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+sidebar:
+  nav: "docs"
 
 # Reading Files
 include:
