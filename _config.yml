@@ -295,5 +295,6 @@ defaults:
       path: ""
       type: docs
     values:
+      author_profile: true
       sidebar:
         nav: "docs"
