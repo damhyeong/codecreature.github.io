@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Testing Started
+    children:
+      - title: "child1"
+        url: "https://www.naver.com"
