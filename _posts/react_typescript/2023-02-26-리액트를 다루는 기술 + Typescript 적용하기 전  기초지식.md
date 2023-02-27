@@ -25,4 +25,4 @@ yarn add react-dom @types/react-dom
 * `typescript` or `React` 둘 중 하나의 경험은 있어야 이해 할 수 있습니다.
 * 이 책의 `typescript` 적용 과정에 설명은 대부분 `typescript` 위주로 <br/> 흘러 갈 것입니다. - 책에 수기하며 배우는게 제일 효과적입니다.
 
-![Alt text](/damhyeong.github.io/_img/react-img/react-page-exam.PNG)
+![Alt text](/damhyeong.github.io/_img/react-img/react-page-exam.png)
